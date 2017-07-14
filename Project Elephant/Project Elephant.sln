@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Elephant.CSharp", "Project Elephant.CSharp.csproj", "{7012CC90-B7EC-DC34-5A1B-F87B483EF200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7012CC90-B7EC-DC34-5A1B-F87B483EF200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7012CC90-B7EC-DC34-5A1B-F87B483EF200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7012CC90-B7EC-DC34-5A1B-F87B483EF200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7012CC90-B7EC-DC34-5A1B-F87B483EF200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
